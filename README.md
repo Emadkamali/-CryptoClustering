@@ -5,13 +5,12 @@ This project focuses on the analysis and clustering of cryptocurrency data utili
 # Results
 The analysis involved the following key steps:
 
-- Data Preprocessing: Loading and examining the cryptocurrency market data.
-- Normalization: Scaling the data using StandardScaler.
-- Cluster Analysis:
-- Applying K-Means clustering to the original scaled data to determine the optimal number of clusters (k).
-- Employing PCA to reduce dimensionality and then applying K-Means clustering to find the optimal k.
--Visualization and Comparison:
-      - Comparing the clusters derived from the original scaled data with those from the PCA-transformed data.
+1.Data Preprocessing: Loading and examining the cryptocurrency market data.
+2. Normalization: Scaling the data using StandardScaler.
+3. Cluster Analysis:
+      - Applying K-Means clustering to the original scaled data to determine the optimal number of clusters (k).
+      - Employing PCA to reduce dimensionality and then applying K-Means clustering to find the optimal k.
+4. Visualization and Comparison: - Comparing the clusters derived from the original scaled data with those from the PCA-transformed data.
       - Comparing the Elbow curves from both datasets.
 
 # Conclusion
