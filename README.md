@@ -5,7 +5,7 @@ This project focuses on the analysis and clustering of cryptocurrency data utili
 # Results
 The analysis involved the following key steps:
 
-1.Data Preprocessing: Loading and examining the cryptocurrency market data.
+1. Data Preprocessing: Loading and examining the cryptocurrency market data.
 2. Normalization: Scaling the data using StandardScaler.
 3. Cluster Analysis:
       - Applying K-Means clustering to the original scaled data to determine the optimal number of clusters (k).
