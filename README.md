@@ -14,5 +14,5 @@ The analysis involved the following key steps:
       -Comparing the clusters derived from the original scaled data with those from the PCA-transformed data.
       -Comparing the Elbow curves from both datasets.
 
-#Conclusion
+# Conclusion
 The analysis highlights the benefits of using optimization techniques like PCA to enhance clustering results. PCA reduces the dimensionality of the data, allowing for more accurate identification of significant patterns and clusters.
